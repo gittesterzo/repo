@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("final update on B2 t1\n");
+    printf("final t1 update main\n");
 
     return 0
 }
