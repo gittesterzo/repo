@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("test 1\n");
+    printf("updated test 1 on main\n");
     return 0
 }
