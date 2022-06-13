@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("updated test 1 on both branches\n");
+    printf("final t1 update main\n");
 
     return 0
 }
